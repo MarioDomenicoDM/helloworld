@@ -30,5 +30,5 @@ else:
 		print "x1 = ", x1
 		print "x2 = ", x2
 	else:
-		print "L'equazione non ha nessuna soluzione"
+		print "L'equazione non ammette soluzioni reali "
 	
