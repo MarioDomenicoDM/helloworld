@@ -1,2 +1,2 @@
-n=input('Inserisci un numero ')
+n = input('Inserisci un numero ')
 print n*2
